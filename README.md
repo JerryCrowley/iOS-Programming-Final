@@ -4,7 +4,10 @@
 Final Project for CSCI-UA.0480-​002 - iOS Programming
 
 “Collector Car infoNet,” allows users to access a database of collector car auctions from Mecum Auctions—a car auction company from Wisconsin.
-Final version completed, and available for free on the app store. 
+
+
+This summer I completed work on the project, and successfully launched “Carval” to the App
+Store. Available for free.
 
 ---
 
