@@ -8,6 +8,6 @@ Final version completed, and available for free on the app store.
 
 ---
 
-[Website](http://www.carvalwebpage.s3-website-us-east-1.amazonaws.com)
+[Website](http://carvalwebpage.s3-website-us-east-1.amazonaws.com)
 
-[AppStore](http://www.itunes.apple.com/us/app/carval/id1033314109?mt=8)
+[App Store](https://itunes.apple.com/us/app/carval/id1033314109?mt=8)
